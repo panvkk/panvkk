@@ -13,7 +13,7 @@ I'm a Junior Android Developer specializing in Kotlin. I love transforming ideas
 
 # 📂 My Projects
 - [Pixel Sorter](https://github.com/panvkk/Android/tree/main/Projects/PixelSorting) - An app that allows the user to **sort pixels** in a photo to create a visual effect
-- [Photo Searcher](https://github.com/panvkk/Android/tree/main/Practice/PhotoSearcher) - Used in the application API Google for practice with REST. The application **searches for photos** by text request.
+- [Photo Searcher](https://github.com/panvkk/Android/tree/main/Projects/PhotoSearcher) - Used in the application API Google for practice with REST. The application **searches for photos** by text request.
 - [Finantial Tracker](url) --- - _Now in progress_
 
 
