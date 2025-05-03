@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, my name is Konstantin or panvkk
 
-<!--
-**panvkk/panvkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Junior Android developer, currently studying Kotlin and have a passion for creating interesting applications on it.
+Also, I’m currently learning in Belorussian State University, FAMCS.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My Projects
+- [Pixel Sorter] [https://github.com/panvkk/Android/tree/main/Projects/PixelSorting](url) - An app that allows the user to sort pixels in a photo to create a visual effect
+- [Photo Searcher] [https://github.com/panvkk/Android/tree/main/Practice/PhotoSearcher](url) - Used in the application API Google for practice with REST. The application searches for photos by text request.
+- [Finantial Tracker] --- - Now in progress
+
+
+## 📫 How to reach me:
+  tg: @ppnvk
+  linkedIn: [www.linkedin.com/in/konstantin-panov-14a76932b](url)
+  Email: panvk001@gmail.com
