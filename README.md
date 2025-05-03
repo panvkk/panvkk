@@ -3,7 +3,7 @@
 I'm a Junior Android Developer specializing in Kotlin. I love transforming ideas into innovative and engaging mobile experiences. Currently, I'm expanding my skills and exploring cutting-edge technologies while studying at Belorussian State University, FAMCS.
 
 # 🛠 Skills
-- Programming Languages: **Kotlin**, **C++**
+- Programming Languages: **Kotlin**, **C++**, **Java**
 - Android Development: Jetpack Compose, Android SDK
 - Networking: Retrofit
 - Databases: Room
