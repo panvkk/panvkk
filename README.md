@@ -19,5 +19,5 @@ I'm a Junior Android Developer specializing in Kotlin. I love transforming ideas
 
 # 📫 How to reach me:
 - tg: @ppnvk
-- linkedIn: [LinkedIn](google.com)
+- linkedIn: _linkedin.com/in/konstantin-panov-14a76932b_
 - email: panvk001@gmail.com
