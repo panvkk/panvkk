@@ -1,6 +1,4 @@
-# 👋 Hi there, I'm Konstantin (panvkk)
-
-I'm a Junior Android Developer specializing in Kotlin. I love transforming ideas into innovative and engaging mobile experiences. Currently, I'm expanding my skills and exploring cutting-edge technologies while studying at Belorussian State University, FAMCS.
+I'm a Junior Android Developer specializing in Kotlin.
 
 # 🛠 Skills
 - Programming Languages: **Kotlin**, **C++**, **Java**
