@@ -3,11 +3,7 @@ I'm a Junior Android Developer specializing in Kotlin.
 # 🛠 Skills
 - Programming Languages: **Kotlin**, **C++**, **Java**
 - Android Development: Jetpack Compose, Android SDK
-- Networking: Retrofit
-- Databases: Room
-- Version Control: Git
-- Background Tasks: WorkManager
-- Image Processing: Coil
+- Other: Retrofit, Room, Git, WorkManager, Coil etc.
 
 # 📂 My Projects
 - [Pixel Sorter](https://github.com/panvkk/Android/tree/main/Projects/PixelSorting) - An app that allows the user to **sort pixels** in a photo to create a visual effect
