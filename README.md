@@ -1,7 +1,7 @@
 I'm a Junior Android Developer specializing in Kotlin.
 
 # 🛠 Skills
-- Programming Languages: **Kotlin**, **C++**
+- Programming Languages: **Kotlin**, **Java**
 - Android Development: Jetpack Compose, Android SDK
 - Other: Retrofit, Room, Git, WorkManager, Coil etc.
 
