@@ -6,10 +6,10 @@ I'm a Junior Android Developer specializing in Kotlin.
 - Other: Retrofit, Room, Git, WorkManager, Coil etc.
 
 # 📂 My Projects
+- [Stove](https://github.com/panvkk/stove) - Stove Order & Configuration App
+- [Daily](https://github.com/panvkk/daily) - Universal Activity Tracker
 - [Pixel Sorter](https://github.com/panvkk/Android/tree/main/Projects/PixelSorting) - An app that allows the user to **sort pixels** in a photo to create a visual effect
 - [Photo Searcher](https://github.com/panvkk/Android/tree/main/Projects/PhotoSearcher) - Used in the application API Google for practice with REST. The application **searches for photos** by text request.
-- [Finantial Tracker](url) --- - _Now in progress_
-
 
 # 📫 How to reach me:
 - tg: @panvvk
