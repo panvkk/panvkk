@@ -26,6 +26,7 @@
 ![Jetpack Compose](https://img.shields.io/badge/JETPACK%20COMPOSE-%231C3D5A?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android SDK](https://img.shields.io/badge/ANDROID%20SDK-%23075E54?style=for-the-badge&logo=android&logoColor=white)
 ![Custom View & Fragment](https://img.shields.io/badge/CUSTOM%20VIEW%20%26%20FRAGMENT-%23075E54?style=for-the-badge&logo=android&logoColor=white)
+<br>
 ![Coroutines & Flow](https://img.shields.io/badge/COROUTINES%20%26%20FLOW-%234A3E7D?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/RETROFIT-%231C3D5A?style=for-the-badge&logo=google&logoColor=white)
 ![OkHttp](https://img.shields.io/badge/OKHTTP-%2324292E?style=for-the-badge&logo=square&logoColor=white)
