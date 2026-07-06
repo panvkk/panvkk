@@ -22,16 +22,20 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a></p>
 
-### Frameworks and technologies
+## Frameworks and technologies
 ![Jetpack Compose](https://img.shields.io/badge/JETPACK%20COMPOSE-%231C3D5A?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android SDK](https://img.shields.io/badge/ANDROID%20SDK-%23075E54?style=for-the-badge&logo=android&logoColor=white)
 ![Custom View & Fragment](https://img.shields.io/badge/CUSTOM%20VIEW%20%26%20FRAGMENT-%23075E54?style=for-the-badge&logo=android&logoColor=white)
 ![Coroutines & Flow](https://img.shields.io/badge/COROUTINES%20%26%20FLOW-%234A3E7D?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/RETROFIT-%231C3D5A?style=for-the-badge&logo=google&logoColor=white)
 ![OkHttp](https://img.shields.io/badge/OKHTTP-%2324292E?style=for-the-badge&logo=square&logoColor=white)
+
+### DI
 ![Hilt](https://img.shields.io/badge/HILT-%23075E54?style=for-the-badge&logo=android&logoColor=white)
 ![Dagger2](https://img.shields.io/badge/DAGGER%202-%2324292E?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Manual DI](https://img.shields.io/badge/MANUAL%20DI-%234A3E7D?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Testing 
 ![JUnit4/5](https://img.shields.io/badge/JUNIT%204%20%2F%205-%233E4A3E?style=for-the-badge&logo=junit5&logoColor=white)
 ![Espresso](https://img.shields.io/badge/ESPRESSO-%23075E54?style=for-the-badge&logo=android&logoColor=white)
 ![Kaspresso](https://img.shields.io/badge/KASPRESSO-%234A3E7D?style=for-the-badge&logo=kotlin&logoColor=white)
