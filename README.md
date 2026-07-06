@@ -9,7 +9,7 @@
 <a href="https://instagram.com/panvkkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panvkkk" height="30" width="40" /></a>
 </p>
 
-- 📄 Know about my experiences **[CV English](https://docs.google.com/document/d/1qotTFT3sHxmpgnb3QAbJYv9W6IDN2Xq5/edit?usp=sharing&ouid=100913303705604492950&rtpof=true&sd=true)**, **[CV Russian](https://docs.google.com/document/d/1cg7geNihg5ruQko2ww8a9644FDmrM8VU/edit?usp=sharing&ouid=100913303705604492950&rtpof=true&sd=true)**
+📄 Know about my experiences **[CV English](https://docs.google.com/document/d/1qotTFT3sHxmpgnb3QAbJYv9W6IDN2Xq5/edit?usp=sharing&ouid=100913303705604492950&rtpof=true&sd=true)**, **[CV Russian](https://docs.google.com/document/d/1cg7geNihg5ruQko2ww8a9644FDmrM8VU/edit?usp=sharing&ouid=100913303705604492950&rtpof=true&sd=true)**
 
 # 📂 My Projects
 - **From T-Academy** [Products Store](https://github.com/panvkk/products-store/tree/hw7/finishing-touches) - Client for the e-commerce platform
