@@ -28,7 +28,6 @@
 
 # 📫 How to reach me:
 - tg: [@panvvk](https://t.me/panvvk)
-- linkedIn: [linkedin.com](https://www.linkedin.com/in/k-panov/)
 - email: **panvk001@gmail.com**
   
 **[asphalt.by](https://asphalt.by/)**
