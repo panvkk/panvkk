@@ -19,8 +19,8 @@
 - [Photo Searcher](https://github.com/panvkk/Android/tree/main/Projects/PhotoSearcher) - Used in the application API Google for practice with REST. The application **searches for photos** by text request.
 
 # 🛠 Skills
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a></p>
+<h3 align="left">Languages:</h3>
+<a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a></p>
 
 ## Frameworks and technologies
 ![Jetpack Compose](https://img.shields.io/badge/JETPACK%20COMPOSE-%231C3D5A?style=for-the-badge&logo=jetpackcompose&logoColor=white)
@@ -48,7 +48,7 @@
 ![SharedPreferences](https://img.shields.io/badge/SHAREDPREFERENCES-%23075E54?style=for-the-badge&logo=android&logoColor=white)
 
 ### Tools & other
-![Android Studio](https://img.shields.io/badge/ANDROID%20STUDIO-%23075E54?style=for-the-badge&logo=androidstudio&logoColor=white)
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> 
 ![Gradle](https://img.shields.io/badge/GRADLE-%231F3A40?style=for-the-badge&logo=gradle&logoColor=white)
 ![Git & GitFlow](https://img.shields.io/badge/GIT%20%26%20GITFLOW-%23943126?style=for-the-badge&logo=git&logoColor=white)
 
