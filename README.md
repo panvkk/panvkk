@@ -22,8 +22,30 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a></p>
 
-- Android Development: Jetpack Compose, Android SDK
-- Other: Retrofit, Room, Git, WorkManager, Coil etc.
+### Frameworks and technologies
+![Jetpack Compose](https://img.shields.io/badge/JETPACK%20COMPOSE-%234285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android SDK](https://img.shields.io/badge/ANDROID%20SDK-%233DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Custom View & Fragment](https://img.shields.io/badge/CUSTOM%20VIEW%20%26%20FRAGMENT-%233DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Coroutines & Flow](https://img.shields.io/badge/COROUTINES%20%26%20FLOW-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Retrofit](https://img.shields.io/badge/RETROFIT-%234285F4?style=for-the-badge&logo=google&logoColor=white)
+![OkHttp](https://img.shields.io/badge/OKHTTP-%23000000?style=for-the-badge&logo=square&logoColor=white)
+![Hilt](https://img.shields.io/badge/HILT-%233DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Dagger2](https://img.shields.io/badge/DAGGER%202-%23000000?style=for-the-badge&logo=daisyui&logoColor=white)
+![Manual DI](https://img.shields.io/badge/MANUAL%20DI-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JUnit4/5](https://img.shields.io/badge/JUNIT%204%20%2F%205-%2325A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Espresso](https://img.shields.io/badge/ESPRESSO-%233DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kaspresso](https://img.shields.io/badge/KASPRESSO-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Databases
+![Room](https://img.shields.io/badge/ROOM-%233DDC84?style=for-the-badge&logo=android&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
+![DataStore](https://img.shields.io/badge/DATASTORE-%233DDC84?style=for-the-badge&logo=android&logoColor=white)
+![SharedPreferences](https://img.shields.io/badge/SHAREDPREFERENCES-%233DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Tools & other
+![Android Studio](https://img.shields.io/badge/ANDROID%20STUDIO-%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Gradle](https://img.shields.io/badge/GRADLE-%2302303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Git & GitFlow](https://img.shields.io/badge/GIT%20%26%20GITFLOW-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 # 📫 How to reach me:
