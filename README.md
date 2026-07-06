@@ -22,7 +22,7 @@
 <h3 align="left">Languages:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a></p>
 
-## Frameworks and technologies
+### Frameworks and technologies
 ![Jetpack Compose](https://img.shields.io/badge/JETPACK%20COMPOSE-%231C3D5A?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android SDK](https://img.shields.io/badge/ANDROID%20SDK-%23075E54?style=for-the-badge&logo=android&logoColor=white)
 ![Custom View & Fragment](https://img.shields.io/badge/CUSTOM%20VIEW%20%26%20FRAGMENT-%23075E54?style=for-the-badge&logo=android&logoColor=white)
