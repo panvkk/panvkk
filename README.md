@@ -1,6 +1,6 @@
 # Hi there👋
 
-### I'm Junior Mobile Developer specializing in Android.
+### I'm a Junior Mobile Developer specializing in Android.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
