@@ -49,6 +49,7 @@
 
 ### Tools & other
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> 
+  
 ![Gradle](https://img.shields.io/badge/GRADLE-%231F3A40?style=for-the-badge&logo=gradle&logoColor=white)
 ![Git & GitFlow](https://img.shields.io/badge/GIT%20%26%20GITFLOW-%23943126?style=for-the-badge&logo=git&logoColor=white)
 
