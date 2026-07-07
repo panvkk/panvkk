@@ -2,13 +2,6 @@
 
 ### I'm a Junior Mobile Developer specializing in Android.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/panvkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="panvkk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/k-panov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k-panov" height="30" width="40" /></a>
-<a href="https://instagram.com/panvkkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panvkkk" height="30" width="40" /></a>
-</p>
-
 📄 Know about my experiences **[CV English](https://docs.google.com/document/d/1qotTFT3sHxmpgnb3QAbJYv9W6IDN2Xq5/edit?usp=sharing&ouid=100913303705604492950&rtpof=true&sd=true)**, **[CV Russian](https://docs.google.com/document/d/1cg7geNihg5ruQko2ww8a9644FDmrM8VU/edit?usp=sharing&ouid=100913303705604492950&rtpof=true&sd=true)**
 
 # 📂 My Projects
@@ -56,5 +49,12 @@
 # 📫 How to reach me:
 - tg: [@panvvk](https://t.me/panvvk)
 - email: **panvk001@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/panvkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="panvkk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/k-panov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k-panov" height="30" width="40" /></a>
+<a href="https://instagram.com/panvkkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panvkkk" height="30" width="40" /></a>
+</p>
   
 **[asphalt.by](https://asphalt.by/)**
