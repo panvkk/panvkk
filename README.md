@@ -55,4 +55,4 @@
 <a href="https://github.com/panvkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="panvkk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/k-panov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k-panov" height="30" width="40" /></a>
   
-**[asphalt.by](https://asphalt.by/)**
+**[asphalt.by](https://asphalt.by/)** **[clicker.asphalt.by](https://clicker.asphalt.by/)**
