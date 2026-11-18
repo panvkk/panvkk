@@ -7,8 +7,8 @@
 # 📂 My Projects
 
 ### Backend
-- [Money Pusher](https://github.com/panvkk/YOUR_REPO_LINK) - Microservice clicker-bank with JWT auth, Redis, Kafka Saga transfers & PostgreSQL ([Deployed here](https://clicker.asphalt.by/))
-- [Film Catalog](https://github.com/panvkk/YOUR_REPO_LINK) - REST API CRUD service for managing movies and directors built with Kotlin, Spring Boot & PostgreSQL
+- [Money Pusher](https://github.com/panvkk/Java-and-Kotlin/tree/main/money-pusher) - Microservice clicker-bank with JWT auth, Redis, Kafka Saga transfers & PostgreSQL ([Deployed here](https://clicker.asphalt.by/))
+- [Film Catalog](https://github.com/panvkk/Java-and-Kotlin/tree/main/film-catalog) - REST API CRUD service for managing movies and directors built with Kotlin, Spring Boot & PostgreSQL
 
 ### Android
 - **From T-Academy** [Products Store](https://github.com/panvkk/products-store/tree/hw7/finishing-touches) - Client for the e-commerce platform
