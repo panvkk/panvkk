@@ -2,8 +2,6 @@
 
 ### I'm a Junior Software Engineer.
 
-📄 Know about my experiences **[CV English](https://docs.google.com/document/d/1qotTFT3sHxmpgnb3QAbJYv9W6IDN2Xq5/edit?usp=sharing&ouid=100913303705604492950&rtpof=true&sd=true)**, **[CV Russian](https://docs.google.com/document/d/1cg7geNihg5ruQko2ww8a9644FDmrM8VU/edit?usp=sharing&ouid=100913303705604492950&rtpof=true&sd=true)**
-
 # 📂 My Projects
 
 ### Backend
